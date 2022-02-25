@@ -1,3 +1,5 @@
+[![MathUtility Project using JUnit & CI | © 2022 by Larry-thecoder](https://github.com/Larry-thecoder/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/Larry-thecoder/math-util/actions/workflows/mathutil-ci.yml)
+
 # Welcome to Math Utility Repository
 
 ## This repo stores a Java library to support for the Math Caculation You will find in this repo the following stuff
