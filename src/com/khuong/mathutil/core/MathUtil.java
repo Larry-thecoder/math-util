@@ -27,7 +27,7 @@ public class MathUtil {
             return 1;
         
         //sống sót đến đây, n = 2...20
-        long product = 1; //ket qua trung gian
+        long product = 10; //ket qua trung gian
         for(int i = 2; i <= n; i++){
             product *= i;
         }
